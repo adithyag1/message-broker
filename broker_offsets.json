@@ -1,0 +1,20 @@
+{
+  "consumer_7288": {
+    "test_topic": 4
+  },
+  "consumer_7388": {
+    "test_topic": 4
+  },
+  "consumer_8988": {
+    "topic1": 4
+  },
+  "consumer_2363": {
+    "topic2": 2
+  },
+  "consumer_3592": {
+    "topic1": 2
+  },
+  "consumer_7054": {
+    "topic1": 2
+  }
+}

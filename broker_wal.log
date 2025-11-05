@@ -1,0 +1,2 @@
+{"type": "publish", "topic": "topic1", "payload": "hi"}
+{"type": "publish", "topic": "topic1", "payload": "msg2"}
